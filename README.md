@@ -20,7 +20,7 @@ copies or substantial portions of the Software.
 
 <br />
 <div align="center">
-  <a href="https://github.com/Klein-Rop/Gamified-Cyber-Edu">
+  <a href="https://github.com/Klein-Rop/Gamefied-Cybersecurity.git">
     <img src="img/logo.png" alt="Logo" height="100">
   </a>
 
@@ -65,52 +65,22 @@ These instructions will guide you through setting up and running the project on 
 
 Before you begin, make sure you have the following installed:
 - Git
-- Docker
+
 
 ### Cloning the Repository
 
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/Klein-Rop/Gamified-Cyber-Edu.git
+git clone https://github.com/Klein-Rop/Gamefied-Cybersecurity.git
 ```
 ```
-cd Gamified-Cyber-Edu
+cd Gamefied-Cybersecurity
 ```
 
-# Running the Application with Docker
-
-The application is containerized with Docker, making it easy to set up and run. To start the application:
-
-1. Pull the Docker image from Docker Hub:
-```
-docker pull kleinrop/gamified-cyber-edu:v2
-```
-2. Run the Docker container:
-```
-docker run -d -p 80:80 kleinrop/gamified-cyber-edu:v2
-```
-This command will start the container and map port 80 in the container to port 8080 on your host machine.
-3. Access the application:
-
-Open your web browser and navigate to 
-```
-http://localhost:8080
-```
-You should see the Gamified Cybersecurity application running.
 
 
-# Stopping the Application
 
-To stop the running Docker container:
-1. Find the container ID:
-```
-docker ps
-```
-2. Stop the container:
-```
-docker stop <container-id>
-```
 
 ## License
 
@@ -122,8 +92,8 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/Klein-Rop/Gamified-Cyber-Edu](https://github.com/Klein-Rop/Gamified-Cyber-Edu)
+Project Link: [https://github.com/Klein-Rop/Gamefied-Cybersecurity](https://github.com/Klein-Rop/Gamefied-Cybersecurity)
 
-Website: [https://squreit.onrender.com](squreit.onrender.com)
+
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
