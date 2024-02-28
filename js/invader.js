@@ -318,4 +318,3 @@ function restart () {
     stateText.visible = false;
 
 }
-h
