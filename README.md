@@ -20,7 +20,7 @@ copies or substantial portions of the Software.
 
 <br />
 <div align="center">
-  <a href="https://github.com/Klein-Rop/Gamefied-Cybersecurity.git">
+  <a href="https://github.com/Klein-Rop/Gamified-cybersecurity.git">
     <img src="img/logo.png" alt="Logo" height="100">
   </a>
 
@@ -30,9 +30,9 @@ copies or substantial portions of the Software.
     A cyber safety and security awareness platform focused on children and their caretakers.
     <br />
     ·
-    <a href="https://github.com/Klein-Rop/Gamified-Cyber-Edu/issues">Report Bug</a>
+    <a href="https://github.com/Klein-Rop/Gamified-cybersecurity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Klein-Rop/Gamified-Cyber-Edu/issues">Request Feature</a>
+    <a href="https://github.com/Klein-Rop/Gamified-cybersecurity/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,10 +72,10 @@ Before you begin, make sure you have the following installed:
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/Klein-Rop/Gamified-Cybersecurity.git
+git clone https://github.com/Klein-Rop/Gamified-cybersecurity.git
 ```
 ```
-cd Gamified-Cybersecurity
+cd Gamified-cybersecurity
 ```
 
 
@@ -92,7 +92,7 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/Klein-Rop/Gamified-Cybersecurity](https://github.com/Klein-Rop/Gamified-Cybersecurity)
+Project Link: [https://github.com/Klein-Rop/Gamified-cybersecurity](https://github.com/Klein-Rop/Gamified-cybersecurity)
 
 
 
