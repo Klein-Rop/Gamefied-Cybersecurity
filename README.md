@@ -72,10 +72,10 @@ Before you begin, make sure you have the following installed:
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/Klein-Rop/Gamefied-Cybersecurity.git
+git clone https://github.com/Klein-Rop/Gamified-Cybersecurity.git
 ```
 ```
-cd Gamefied-Cybersecurity
+cd Gamified-Cybersecurity
 ```
 
 
@@ -92,7 +92,7 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/Klein-Rop/Gamefied-Cybersecurity](https://github.com/Klein-Rop/Gamefied-Cybersecurity)
+Project Link: [https://github.com/Klein-Rop/Gamified-Cybersecurity](https://github.com/Klein-Rop/Gamified-Cybersecurity)
 
 
 
